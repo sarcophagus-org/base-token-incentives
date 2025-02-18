@@ -1,3 +1,6 @@
+![image](https://github.com/sarcophagus-org/base-token-incentives/blob/main/resurrection.png)
+
+
 # Sarcophagus Resurrection - $SARCO Token Incentives For BASE 
 
 Things have been a little too quiet in the Sarcophagus ecosystem for a little too long. It’s time to shake things up and do whatever we can to share the novelty and utility of an on-chain dead man’s switch.
