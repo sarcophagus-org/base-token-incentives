@@ -3,7 +3,7 @@
 
 # Sarcophagus Resurrection - $SARCO Token Incentives For BASE 
 
-Things have been a little too quiet in the Sarcophagus ecosystem for a little too long. It’s time to shake things up and do whatever we can to share the novelty and utility of an on-chain dead man’s switch.
+Things have been a little too quiet in the Sarcophagus ecosystem for a little too long. It’s time to shake things up and do whatever we can to share the novelty and utility of an on-chain dead man’s switch. Given that over 53% of the total token supply is owned by the DAO, it is time to use these latent tokens to incentivize positive actions on-chain. Below are several token incentives that current $SARCO holders can benefit from, as well as benefits for new users looking to use the application. 
 
 # BASE Transition Bridge Incentive
 
@@ -35,8 +35,6 @@ BASE is most likely going to be the most **stable L2 in the future**, so the Sar
 
 # Sarcophagus dApp Usage Incentive
 
-![Graphic Needed: Circular Patterns, Recycling Symbol, "Sarcophagus is Free to Use on BASE - Gas Fees"]
-
 To make it as easy as possible for new users to try **Sarcophagus** and create their own **dead man’s switches**, we will **reimburse any user** that **creates or re-wraps a Sarcophagus on BASE**.
 
 - **Reimbursements will cover the $SARCO costs** associated with using Sarcophagus.
@@ -57,7 +55,6 @@ Any attempt to **game, loop, sybil, or otherwise manipulate the system** will re
 
 # DAO Lockup + Vesting
 
-![Graphic Needed: Jail Cell, Vault, Mountain Cliff]
 
 To communicate our **long-term goals and values**, **30% of the remaining DAO tokens** will be **locked into a vesting schedule for 24 months** using [Sablier](https://sablier.com/) via SAFE on BASE.
 
@@ -74,7 +71,6 @@ To communicate our **long-term goals and values**, **30% of the remaining DAO to
 
 # DEX Liquidity Provision + Incentives
 
-![Graphic Needed: Balancing Scales, BASE Logo, Uniswap Logo]
 
 To facilitate a **smooth market for $SARCO token holders**, **17,677,376 $SARCO** (33% of remaining DAO tokens) will be allocated for **liquidity incentive and market-making programs**.
 
@@ -86,7 +82,6 @@ To facilitate a **smooth market for $SARCO token holders**, **17,677,376 $SARCO*
 
 # Public Disclosure Built-In
 
-![Graphic Needed: Newspaper, News Broadcast, Thoth Character]
 
 The team is working on a feature for **public disclosure of Sarcophagus contents via an X/Twitter bot**.
 
