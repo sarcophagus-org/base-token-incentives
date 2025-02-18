@@ -6,7 +6,7 @@
 Things have been a little too quiet in the Sarcophagus ecosystem for a little too long. It’s time to shake things up and do whatever we can to share the novelty and utility of an on-chain dead man’s switch. Given that over 53% of the total token supply is owned by the DAO, it is time to use these latent tokens to incentivize positive actions on-chain. Below are several token incentives that current $SARCO holders can benefit from, as well as benefits for new users looking to use the application. 
 
 
-# BASE Transition Bridge Incentive
+# #1 BASE Transition Bridge Incentive
 
 There is a need to cover the costs of moving **$SARCO** from **ETH** to **BASE**. To do this, we have allocated **7,499,493 $SARCO** (27% of remaining DAO tokens) as a budget to cover these costs **+ additional time-based incentive**.
 
@@ -35,7 +35,7 @@ BASE is most likely going to be the most **stable L2 in the future**, so the Sar
 ---
 
 
-# Sarcophagus dApp Usage Incentive
+# #2 Sarcophagus dApp Usage Incentive
 
 To make it as easy as possible for new users to try **Sarcophagus** and create their own **dead man’s switches**, we will **reimburse any user** that **creates or re-wraps a Sarcophagus on BASE**.
 
@@ -56,7 +56,7 @@ Any attempt to **game, loop, sybil, or otherwise manipulate the system** will re
 ---
 
 
-# DAO Lockup + Vesting
+# #3 DAO Lockup + Vesting
 
 
 To communicate our **long-term goals and values**, **30% of the remaining DAO tokens** will be **locked into a vesting schedule for 24 months** using [DecentDAO](https://decentdao.org/) via SAFE on BASE.
@@ -72,7 +72,7 @@ To communicate our **long-term goals and values**, **30% of the remaining DAO to
 
 ---
 
-# DEX Liquidity Provision + Incentives
+# #4 DEX Liquidity Provision + Incentives
 
 
 To facilitate a **smooth market for $SARCO token holders**, **17,677,376 $SARCO** (33% of remaining DAO tokens) will be allocated for **liquidity incentive and market-making programs**.
@@ -83,7 +83,7 @@ To facilitate a **smooth market for $SARCO token holders**, **17,677,376 $SARCO*
 
 ---
 
-# Public Disclosure Built-In
+# #5 Public Disclosure Built-In
 
 
 The team is working on a feature for **public disclosure of Sarcophagus contents via an X/Twitter bot**.
