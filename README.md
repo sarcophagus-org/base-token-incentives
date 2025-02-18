@@ -5,6 +5,8 @@
 
 Things have been a little too quiet in the Sarcophagus ecosystem for a little too long. It’s time to shake things up and do whatever we can to share the novelty and utility of an on-chain dead man’s switch. Given that over 53% of the total token supply is owned by the DAO, it is time to use these latent tokens to incentivize positive actions on-chain. Below are several token incentives that current $SARCO holders can benefit from, as well as benefits for new users looking to use the application. 
 
+![image](https://github.com/sarcophagus-org/base-token-incentives/blob/main/base-bridge%20.png)
+
 # BASE Transition Bridge Incentive
 
 There is a need to cover the costs of moving **$SARCO** from **ETH** to **BASE**. To do this, we have allocated **7,499,493 $SARCO** (27% of remaining DAO tokens) as a budget to cover these costs **+ additional time-based incentive**.
@@ -33,6 +35,8 @@ BASE is most likely going to be the most **stable L2 in the future**, so the Sar
 
 ---
 
+![image](https://github.com/sarcophagus-org/base-token-incentives/blob/main/base-refund.png)
+
 # Sarcophagus dApp Usage Incentive
 
 To make it as easy as possible for new users to try **Sarcophagus** and create their own **dead man’s switches**, we will **reimburse any user** that **creates or re-wraps a Sarcophagus on BASE**.
@@ -53,10 +57,12 @@ Any attempt to **game, loop, sybil, or otherwise manipulate the system** will re
 
 ---
 
+![image](https://github.com/sarcophagus-org/base-token-incentives/blob/main/vesting.png)
+
 # DAO Lockup + Vesting
 
 
-To communicate our **long-term goals and values**, **30% of the remaining DAO tokens** will be **locked into a vesting schedule for 24 months** using [Sablier](https://sablier.com/) via SAFE on BASE.
+To communicate our **long-term goals and values**, **30% of the remaining DAO tokens** will be **locked into a vesting schedule for 24 months** using [DecentDAO](https://decentdao.org/) via SAFE on BASE.
 
 - **Total Locked Tokens:** **16,070,342 $SARCO**
 - **DAO control removed for 24 months**
@@ -68,6 +74,8 @@ To communicate our **long-term goals and values**, **30% of the remaining DAO to
 - **Vesting is non-cancelable**, meaning **this action cannot be undone**.
 
 ---
+
+![image](https://github.com/sarcophagus-org/base-token-incentives/blob/main/liquidity-provision.png)
 
 # DEX Liquidity Provision + Incentives
 
@@ -90,8 +98,9 @@ The team is working on a feature for **public disclosure of Sarcophagus contents
 ## Feature Details
 - This feature allows **important information to be publicly accessible**.
 - The disclosure will be a **link to the payload**, including credentials for public access.
+- In the future, the bot will analyze the contents of the Sarcophagus and post a description as well. 
 
-**Link Format:**  
+**Link Format:**
 `https://app.sarcophagus.io/dashboard/<sarco_id>?action=claim&pk=0xffcdfe055623e2d931910984c8fdb713ecbc065b49c620daf52f3239f7f74ea2`
 
 When a **Sarcophagus set for public disclosure is resurrected**, the bot will post:
